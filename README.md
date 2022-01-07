@@ -1,2 +1,2 @@
-# azurelearning
+# azure-learning
 Azure Learning
